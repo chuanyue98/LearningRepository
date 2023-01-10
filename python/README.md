@@ -1,1 +1,26 @@
-[黑马程序员python教程，8天python从入门到精通，学python看这套就够了_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1qW4y1a7fU/?vd_source=3d6fb5e91c3d8290bc3218e3c3551f51)
+[黑马程序员python教程，8天python从入门到精通，学python看这套就够了_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1qW4y1a7fU/?vd_source=3d6fb5e91c3d8290bc3218e3c3551f51）
+
+# 注释
+```python
+# 我是单行注释
+```
+
+\#与注释内容一般以一个空格隔开
+```python
+"""
+    我是多行注释
+"""
+```
+
+# 变量
+**格式:** 变量名 = 变量值
+```python
+moeny = 50
+```
+
+# 数据类型
+使用**type()**查看数据类型
+```python
+print(type("川月"))
+```
+查看的是 变量存储的***数据***的类型，因为变量无类型，但是他存储的数据有。
