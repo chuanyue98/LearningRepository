@@ -5,3 +5,6 @@ money = 10
 print("我还有：",money)
 
 print(type("name"))
+
+num = str(11)
+print(type(num))
