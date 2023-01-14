@@ -1,14 +1,19 @@
-toast('2399147152')
+
+// console.log(device.getMusicVolume());
+
+var common = require('common.js');
+
+
+// device.setMusicVolume(6)
+
+// app.launchApp("微信")
 
 // home();
-// sleep(1500);
-// click('设置');
 
-// app.launch("com.tencent.mobileqq");
+// powerDialog();
 
-// device.wakeUp();
+// common.WeChatScan();
+// log("test")
 
-device.keepScreenOn();
 
-// 振动
-device.vibrate(3000);
+console.log(common.getAllAppNameAndPackageName());
